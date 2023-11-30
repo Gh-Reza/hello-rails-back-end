@@ -67,3 +67,5 @@ group :test do
 end
 
 gem 'pg'
+
+gem 'rack-cors'
